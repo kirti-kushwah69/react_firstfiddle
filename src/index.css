@@ -1,0 +1,350 @@
+.navbar {
+  background: #00000082 !important;
+  /* height: 98px; */
+}
+.weblogo {
+  width: 76px;
+}
+.moblogo {
+  width: 200px;
+  display: none;
+}
+.menu ul li a {
+  margin-left: 27px;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: white;
+}
+.menu ul li a:hover {
+  background: #ffc107;
+}
+.wlcm {
+  margin-top: 43px;
+  text-align: center;
+  font-size: 41px;
+  font-family: auto;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+.color {
+  color: orange;
+}
+.para {
+  font-size: 17px;
+  text-align: justify;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  margin-top: 40px;
+  padding-right: 5px;
+  line-height: 35px;
+}
+.img2 {
+  width: 90%;
+  margin-top: 22px;
+  /* height: 400px; */
+}
+/* media mention css */
+.c {
+  background: url("https://pn-paul.netlify.app/image/img%20background.jpg");
+  width: 100%;
+  height: 500px;
+  margin-top: 105px;
+}
+.head {
+  text-align: center;
+  color: white;
+  padding-top: 127px;
+  letter-spacing: 2px;
+}
+.para1 {
+  text-align: center;
+  color: white;
+  word-spacing: 1px;
+  letter-spacing: 2px;
+  line-height: 45px;
+  font-size: 18px;
+}
+/* brand css */
+.exp {
+  margin-top: 90px;
+  text-align: center;
+  font-size: 46px;
+  font-family: auto;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+/* experience css */
+.cc {
+  background: url("https://pn-paul.netlify.app/image/ffback2.png");
+  width: 100%;
+  /* height: 500px; */
+  margin-top: 105px;
+}
+/* About css */
+.ccc {
+  background: url("https://pn-paul.netlify.app/image/ourimage.jpg");
+  width: 100%;
+  height: 650px;
+  background-position: center;
+  background-size: cover;
+}
+.our {
+  font-size: 1.5cm;
+  margin-top: 4cm;
+  font-family: prague;
+  text-align: center;
+  color: white;
+  padding-top: 140px;
+}
+.m1 {
+  font-family: sans-serif;
+  margin-top: 56px;
+  letter-spacing: 3px;
+}
+.ab {
+  font-size: 3.5rem;
+}
+.p {
+  margin-top: 32px;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 1px;
+  line-height: 30px;
+  word-spacing: 2px;
+  text-align: center;
+  text-align: justify;
+}
+.webimg {
+  width: 90%;
+  margin-top: 32px;
+}
+.why {
+  background: url("https://pn-paul.netlify.app/image/gamebanner.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 460px;
+  width: 100%;
+}
+.ml-1 {
+  margin-top: 102px;
+  color: white;
+  font-family: "prague";
+  letter-spacing: 3px;
+  text-align: center;
+  font-size: 40px;
+}
+.p1 {
+  line-height: 41px;
+  letter-spacing: 1px;
+  color: white;
+  /*margin-bottom: 102px;*/
+  font-size: 19px;
+  text-align: center;
+}
+.ex {
+  padding-top: 50px;
+  text-transform: uppercase;
+  font-family: "prague";
+  letter-spacing: 3px;
+}
+/* brand css */
+.ccb {
+  background: url("https://pn-paul.netlify.app/image/brands.jpg");
+  width: 100%;
+  height: 630px;
+  background-position: center;
+  background-size: cover;
+}
+/* our team start */
+.ccot {
+  background: url("https://pn-paul.netlify.app/image/new-our-team.jpg");
+  width: 100%;
+  height: 630px;
+  background-position: center;
+  background-size: cover;
+}
+.para3 {
+  font-size: 15px;
+  text-align: justify;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  margin-top: 15px;
+  padding-right: 5px;
+  line-height: 35px;
+}
+.photo {
+  width: 100%;
+  height: 8.8cm;
+  background-position: center;
+  background-size: cover;
+}
+
+.pp1 {
+  background-image: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+}
+
+.pp2 {
+  background-image: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+}
+
+.pp3 {
+  background-image: url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+}
+
+.pp4 {
+  background-image: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+}
+
+.pp5 {
+  background-image: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+}
+
+/* our team end */
+/* press release css */
+.ccccd {
+  background: url("https://pn-paul.netlify.app/image/press-new-1.jpg");
+  width: 100%;
+  height: 630px;
+  background-position: center;
+  background-size: cover;
+}
+.shade {
+  box-shadow: 1px 1px 18px black;
+}
+.over {
+  overflow-y: auto;
+  height: 10cm;
+}
+.go {
+  line-height: 20px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-right: 5px;
+  margin-top: 20px;
+  font-weight: lighter;
+  padding-bottom: 12px;
+}
+.read {
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-right: 5px;
+  font-weight: lighter;
+}
+/* contact css */
+.ccccc {
+  background: url("https://pn-paul.netlify.app/image/CONTACT-US.jpg");
+  width: 100%;
+  height: 630px;
+  background-position: center;
+  background-size: cover;
+}
+.send{
+  font-size: 30px;
+    font-weight: lighter;
+    /* line-height: 1.2; */
+    color: #495057;
+  
+}
+.for{
+  font-size: 20px;
+}
+/* careers css */
+.ccccac{
+  background: url("https://pn-paul.netlify.app/image/new-careers-1.jpg");
+  width: 100%;
+  height: 630px;
+  background-position: center;
+  background-size: cover;
+}
+.come{
+  letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-weight: lighter;
+    font-size: 20px;
+
+}
+/* footer css */
+footer {
+  background: #111215;
+  /* height: 500px; */
+  width: 100%;
+}
+.flogo {
+  width: 40%;
+  margin-top: 80px;
+  margin-left: 143px;
+}
+
+.contact {
+  margin-top: 50px;
+  font-size: 45px;
+  font-family: prague;
+}
+.para2 {
+  text-align: justify;
+  color: white;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.aa {
+  color: orange;
+  font-family: "prague";
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-top: 18px;
+  letter-spacing: 1px;
+}
+.aaa {
+  font-size: 18px;
+}
+.icon {
+  color: orange;
+  font-size: 40px;
+  margin-left: 17px;
+}
+.last {
+  background: black;
+  /* height: 90px; */
+  color: white;
+  text-align: center;
+  padding-top: 17px;
+  font-size: 18px;
+}
+/* MEDIA QUERY */
+@media (max-width: 768px) {
+
+  .navbar {
+    background-color: #fbac1b !important;
+    /* height: 69px; */
+  }
+  .weblogo {
+    display: none;
+  }
+  .moblogo {
+    display: block;
+  }
+  .fid{
+    height: 340px;
+  }
+  .c {
+    height: 670px;
+  }
+  .box1 {
+    width: 280px;
+    margin-left: 27px;
+  }
+  .mob-banner {
+    display: block !important;
+  }
+  .banner {
+    display: none !important;
+  }
+  .flogo {
+    margin-left: 0px;
+  }
+}
